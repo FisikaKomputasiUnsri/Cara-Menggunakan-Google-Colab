@@ -1,17 +1,17 @@
-Untuk mulai bekerja dengan Google Colab, pertama-tama Anda perlu masuk ke akun Google Anda, lalu buka tautan ini: https://colab.research.google.com.
-Karena Google Colab secara implisit menggunakan Google Drive untuk menyimpan buku catatan Anda, pastikan sebelum Anda melanjutkan lebih jauh, Anda masuk ke akun Google Drive Anda.
-Langkah pertama menggunakan Google Colab adalah login pada akun Google dan masuk Google Drive. Untuk memudahkan dalam menemukan file, sebaiknya buat folder khusus terlebih dulu. Misalnya folder MK. Fisika Komputasi 
-Setelah folder berhasil dibuat, masuk pada folder tersebut kemudian kita akan langsung membuat notebook Google Colab yang baru. Caranya klik tanda  tambah ‘+’ > More > Google Colaboratory.
-Setelah membuat notebook baru, Anda akan melihat antarmuka yang mirip dengan Jupyter Notebook. Beberapa elemen pentingnya adalah:
+- Untuk mulai bekerja dengan Google Colab, pertama-tama Anda perlu masuk ke akun Google Anda, lalu buka tautan ini: https://colab.research.google.com.
+- Karena Google Colab secara implisit menggunakan Google Drive untuk menyimpan buku catatan Anda, pastikan sebelum Anda melanjutkan lebih jauh, Anda masuk ke akun Google Drive Anda.
+- Langkah pertama menggunakan Google Colab adalah login pada akun Google dan masuk Google Drive. Untuk memudahkan dalam menemukan file, sebaiknya buat folder khusus terlebih dulu. Misalnya folder MK. Fisika Komputasi 
+- Setelah folder berhasil dibuat, masuk pada folder tersebut kemudian kita akan langsung membuat notebook Google Colab yang baru. Caranya klik tanda  tambah ‘+’ > More > Google Colaboratory.
+- Setelah membuat notebook baru, Anda akan melihat antarmuka yang mirip dengan Jupyter Notebook. Beberapa elemen pentingnya adalah:
 •	Menu Bar: Terletak di bagian atas, berisi opsi seperti File, Edit, View, Insert, Runtime, Tools, dan Help.
 •	Toolbar: Berisi ikon-ikon pintas untuk operasi umum seperti menyimpan, menambahkan sel kode atau teks, menjalankan sel, menghubungkan ke runtime, dll.
 •	Sel Kode: Tempat Anda menulis dan menjalankan kode Python. Sel ini ditandai dengan [ ]: di sebelah kiri.
 •	Sel Teks: Tempat Anda menulis teks penjelasan menggunakan sintaks Markdown.
 •	Output: Hasil dari kode yang Anda jalankan akan ditampilkan di bawah sel kode yang bersangkutan.
-Klik pada sel kode yang kosong.
-Ketikkan kode Python yang ingin Anda jalankan. Contoh sederhana:
-print("Halo dari Google Colab!")
-Jangan lupa juga untuk mengganti nama file pada pojok kiri atas.
-Apabila sudah selesai menuliskan program, selanjutnya kita akan coba untuk menjalankan atau run kode tersebut. Caranya klik Runtime > Jalankan semua
-Jika kode yang kamu tulis tidak ada yang error, maka output akan muncul di bawahnya, lalu di bagian kanan atas terdapat indikator resource, jika kode berhasil dijalankan maka tandanya akan bercentang hijau.
-Coba Google Colab Sekarang!
+- Klik pada sel kode yang kosong.
+- Ketikkan kode Python yang ingin Anda jalankan. Contoh sederhana:
+- print("Halo dari Google Colab!")
+- Jangan lupa juga untuk mengganti nama file pada pojok kiri atas.
+- Apabila sudah selesai menuliskan program, selanjutnya kita akan coba untuk menjalankan atau run kode tersebut. Caranya klik Runtime > Jalankan semua
+- Jika kode yang kamu tulis tidak ada yang error, maka output akan muncul di bawahnya, lalu di bagian kanan atas terdapat indikator resource, jika kode berhasil dijalankan maka tandanya akan bercentang hijau.
+- Coba Google Colab Sekarang!
